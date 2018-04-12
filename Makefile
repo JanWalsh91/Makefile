@@ -6,11 +6,11 @@
 #    By: jwalsh <jwalsh@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/04/12 15:16:17 by jwalsh            #+#    #+#              #
-#    Updated: 2018/04/12 17:04:40 by jwalsh           ###   ########.fr        #
+#    Updated: 2018/04/12 17:07:55 by jwalsh           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME := scop
+NAME := program
 
 SRCS := main testFunction
 
